@@ -1,0 +1,8 @@
+.recipeDetails__container {
+  background-color: red;
+  min-height: 50vh;
+  width: 100%;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
